@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ListaContactosReact/static/css/main.f8324fd0.css",
-    "main.js": "/ListaContactosReact/static/js/main.fb320edb.js",
-    "static/js/787.b6c65dec.chunk.js": "/ListaContactosReact/static/js/787.b6c65dec.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/ListaContactosReact/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
-    "static/media/bootstrap-icons.woff2?": "/ListaContactosReact/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
-    "index.html": "/ListaContactosReact/index.html",
-    "main.f8324fd0.css.map": "/ListaContactosReact/static/css/main.f8324fd0.css.map",
-    "main.fb320edb.js.map": "/ListaContactosReact/static/js/main.fb320edb.js.map",
-    "787.b6c65dec.chunk.js.map": "/ListaContactosReact/static/js/787.b6c65dec.chunk.js.map"
+    "main.css": "/ListaContactos/static/css/main.46e10cf9.css",
+    "main.js": "/ListaContactos/static/js/main.77479981.js",
+    "static/js/787.b6c65dec.chunk.js": "/ListaContactos/static/js/787.b6c65dec.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/ListaContactos/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/ListaContactos/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "index.html": "/ListaContactos/index.html",
+    "main.46e10cf9.css.map": "/ListaContactos/static/css/main.46e10cf9.css.map",
+    "main.77479981.js.map": "/ListaContactos/static/js/main.77479981.js.map",
+    "787.b6c65dec.chunk.js.map": "/ListaContactos/static/js/787.b6c65dec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8324fd0.css",
-    "static/js/main.fb320edb.js"
+    "static/css/main.46e10cf9.css",
+    "static/js/main.77479981.js"
   ]
 }
