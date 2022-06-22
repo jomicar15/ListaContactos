@@ -1,0 +1,26 @@
+.bi-toggle2-on,.bi-toggle2-off{
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.connected,.bi-toggle2-on{
+    color:green;
+}
+
+.disconnected,.bi-toggle2-off{
+    color: red;
+}
+
+td{
+    text-align: center;
+    padding: 1rem;
+    border: 2px solid black;
+}
+
+.user{
+    font-weight: bold;
+}
+
+.bi-person-x-fill{
+    cursor: pointer;
+}
